@@ -1,0 +1,172 @@
+c:\users\শহলূোেগী\documents\visual studio 2010\Projects\SimpleMessenger\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+c:\users\শহলূোেগী\documents\visual studio 2010\Projects\SimpleMessenger\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+c:\users\শহলূোেগী\documents\visual studio 2010\Projects\SimpleMessenger\SimpleMessenger\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\শহলূোেগী\documents\visual studio 2010\Projects\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+c:\users\শহলূোেগী\documents\visual studio 2010\Projects\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+c:\users\শহলূোেগী\documents\visual studio 2010\Projects\SimpleMessenger\SimpleMessenger\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\শহলূোেগী\documents\visual studio 2010\Projects\SimpleMessenger\SimpleMessenger\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\শহলূোেগী\documents\visual studio 2010\Projects\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+c:\users\শহলূোেগী\documents\visual studio 2010\Projects\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+C:\Users\Ibtesam Afrin\Desktop\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+D:\SHARE_WRITE\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+D:\SHARE_WRITE\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+D:\SHARE_WRITE\SimpleMessenger\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+D:\SHARE_WRITE\SimpleMessenger\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+D:\SHARE_WRITE\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+D:\SHARE_WRITE\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+D:\SHARE_WRITE\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+D:\SHARE_WRITE\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+D:\SHARE_WRITE\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.csproj.GenerateResource.Cache
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\SimpleMessenger\2\SimpleMessenger\SimpleMessenger\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Workspace\Programs\Net\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+D:\Workspace\Programs\Net\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+D:\Workspace\Programs\Net\SimpleMessenger_2\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+D:\Workspace\Programs\Net\SimpleMessenger_2\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+D:\Workspace\Programs\Net\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+D:\Workspace\Programs\Net\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+D:\Workspace\Programs\Net\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+D:\Workspace\Programs\Net\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+D:\Workspace\Programs\Net\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.csproj.GenerateResource.Cache
+D:\Workspace\Programs\Net\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.csprojResolveAssemblyReference.cache
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\bin\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.wo.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2\SimpleMessenger\obj\x86\Debug\SimpleMessenger.UserControl1.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\bin\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.UserControl1.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.wo.resources
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\NEW workplace\SimpleMessenger_2 Last work\SimpleMessenger\obj\x86\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\bin\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.csprojResolveAssemblyReference.cache
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.UserControl1.resources
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.wo.resources
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.csproj.GenerateResource.Cache
+C:\Users\Muntasir\Desktop\UPDATED MESSEN\Last work\SimpleMessenger\obj\x86\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\bin\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.UserControl1.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.wo.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\Last work\SimpleMessenger\obj\x86\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\bin\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.UserControl1.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.wo.resources
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\Try with pothers\SOURCE CODE\Last work\SimpleMessenger\obj\x86\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\bin\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.UserControl1.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.wo.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\Try with pothers\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.AboutBox1.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\bin\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.AboutBox1.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.UserControl1.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.wo.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\SOURCE CODE\Source Code\SimpleMessenger\obj\x86\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\bin\Debug\SimpleMessenger.exe
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\bin\Debug\SimpleMessenger.pdb
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\bin\Debug\wo\SimpleMessenger.resources.dll
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.AboutBox1.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form1.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form3.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Properties.Resources.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.UserControl1.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\SimpleMessenger.Form2.wo.resources
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ibtesam Afrin\Desktop\PROJECT FOLDER\THE FINEL PROJECT FOLDER\Project DVD\Source Code\SimpleMessenger\obj\x86\Debug\wo\SimpleMessenger.resources.dll
